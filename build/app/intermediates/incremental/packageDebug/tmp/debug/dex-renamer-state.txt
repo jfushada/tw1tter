@@ -1,0 +1,4 @@
+#Sat Aug 28 10:45:56 WIB 2021
+base.0=/Users/jfushada/Documents/tw1tter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
